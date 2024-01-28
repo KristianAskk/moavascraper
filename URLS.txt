@@ -1,0 +1,168 @@
+#Hosletoppen skole
+https://www.hosletoppen.skole.no/index.php?pageID=7
+https://www.hosletoppen.skole.no/index.php?pageID=13
+#Bekkestua ungdomsskole
+https://www.bekkestua.skole.no/index.php?pageID=280
+#Grav skole
+https://www.grav.skole.no/index.php?pageID=13
+https://www.grav.skole.no/index.php?pageID=7
+https://www.grav.skole.no/index.php?pageID=16
+#Bekkestua barneskole
+https://bekkestua.barneskole.no/index.php?pageID=20
+https://bekkestua.barneskole.no/index.php?pageID=13
+https://bekkestua.barneskole.no/index.php?pageID=61
+#Ramstad skole
+https://www.ramstadskole.no/index.php?pageID=13
+#Eikeli barneskole
+https://www.eikeli.skole.no/index.php?pageID=117
+https://www.eikeli.skole.no/index.php?pageID=7
+https://www.eikeli.skole.no/index.php?pageID=143
+#Stabekk skole
+https://www.stabekkskole.no/index.php?pageID=13
+https://www.stabekkskole.no/index.php?pageID=7
+https://www.stabekkskole.no/index.php?pageID=16
+https://www.stabekkskole.no/index.php?pageID=129
+#Jong skole
+https://www.jongskole.no/index.php?pageID=13
+https://www.jongskole.no/index.php?pageID=674
+https://www.jongskole.no/index.php?pageID=465
+https://www.jongskole.no/index.php?pageID=464
+#Emma Hjort skole
+https://www.emmahjorth.skole.no/index.php?pageID=16
+https://www.emmahjorth.skole.no/index.php?pageID=7
+https://www.emmahjorth.skole.no/index.php?pageID=217
+https://www.emmahjorth.skole.no/index.php?pageID=246
+https://www.emmahjorth.skole.no/index.php?pageID=13
+#Høvik skole
+https://www.hovikskole.no/index.php?pageID=83
+https://www.hovikskole.no/index.php?pageID=7
+https://www.hovikskole.no/index.php?pageID=111
+#Østerås skole
+https://www.osteraas.no/index.php?pageID=267
+https://www.osteraas.no/index.php?pageID=266
+#Eiksmarka skole
+https://www.eiksmarkaskole.no/index.php?pageID=7
+https://www.eiksmarkaskole.no/index.php?pageID=13
+#Hosle barneskole
+https://www.hosle.no/index.php?pageID=131
+https://www.hosle.no/index.php?pageID=129
+https://www.hosle.no/index.php?pageID=155
+#Haslum skole
+https://www.haslumskole.no/index.php?pageID=13
+https://www.haslumskole.no/index.php?pageID=7
+https://www.haslumskole.no/index.php?pageID=55 
+#Hauger ungdomsskole
+https://haugerskole.no/index.php?pageID=94 
+#Hundsund ungdomsskole
+https://hugs.no/index.php?pageID=23
+https://hugs.no/index.php?pageID=76
+#Rykkinn ungdomsskole
+https://www.rykkinnskole.no/index.php?pageID=13
+https://www.rykkinnskole.no/index.php?pageID=16
+https://www.rykkinnskole.no/index.php?pageID=7
+https://www.rykkinnskole.no/index.php?pageID=51
+#Anna Krefting skole
+https://www.annakreftingskole.no/index.php?pageID=13
+https://www.annakreftingskole.no/index.php?pageID=7
+https://www.annakreftingskole.no/index.php?pageID=14
+https://www.annakreftingskole.no/index.php?pageID=336
+https://www.annakreftingskole.no/index.php?pageID=16
+https://www.annakreftingskole.no/index.php?pageID=345
+https://www.annakreftingskole.no/index.php?pageID=361
+https://www.annakreftingskole.no/index.php?pageID=367
+https://www.annakreftingskole.no/index.php?pageID=365
+https://www.annakreftingskole.no/index.php?pageID=371
+https://www.annakreftingskole.no/index.php?pageID=335
+#Høvik Verk skole
+https://www.hovikverkskole.no/index.php?pageID=13
+https://www.hovikverkskole.no/index.php?pageID=7
+https://www.hovikverkskole.no/index.php?pageID=1002
+https://www.hovikverkskole.no/index.php?pageID=204
+https://www.hovikverkskole.no/index.php?pageID=16
+#Bjørnegård skole
+https://www.bjornegardskole.no/index.php?pageID=345 
+https://www.bjornegardskole.no/index.php?pageID=348
+https://www.bjornegardskole.no/index.php?pageID=347
+https://www.bjornegardskole.no/index.php?pageID=349
+https://www.bjornegardskole.no/index.php?pageID=7
+https://www.bjornegardskole.no/index.php?pageID=346
+https://www.bjornegardskole.no/index.php?pageID=350
+#Blommenholm skole
+https://www.blommenholm.skole.no/index.php?pageID=267
+https://www.blommenholm.skole.no/index.php?pageID=266
+https://www.blommenholm.skole.no/index.php?pageID=262
+https://www.blommenholm.skole.no/index.php?pageID=258
+https://www.blommenholm.skole.no/index.php?pageID=253
+https://www.blommenholm.skole.no/index.php?pageID=246
+https://www.blommenholm.skole.no/index.php?pageID=13
+https://www.blommenholm.skole.no/index.php?pageID=7
+#Evje skole
+https://www.evjeskole.no/index.php?pageID=13
+https://www.evjeskole.no/index.php?pageID=7
+https://www.evjeskole.no/index.php?pageID=16
+https://www.evjeskole.no/index.php?pageID=86
+https://www.evjeskole.no/index.php?pageID=982
+https://www.evjeskole.no/index.php?pageID=977
+https://www.evjeskole.no/index.php?pageID=978
+https://www.evjeskole.no/index.php?pageID=970
+https://www.evjeskole.no/index.php?pageID=960
+https://www.evjeskole.no/index.php?pageID=947
+#Gjettum skole
+https://www.gjettum.gs.ah.no/index.php?pageID=7
+https://www.gjettum.gs.ah.no/index.php?pageID=13
+https://www.gjettum.gs.ah.no/index.php?pageID=121
+#Gullhaug skole 
+https://www.gullhaug.skole.no/index.php?pageID=182
+https://www.gullhaug.skole.no/index.php?pageID=226
+https://www.gullhaug.skole.no/index.php?pageID=225
+https://www.gullhaug.skole.no/index.php?pageID=208
+https://www.gullhaug.skole.no/index.php?pageID=229
+https://www.gullhaug.skole.no/index.php?pageID=226
+#Levre skole
+https://www.levreskole.no/index.php?pageID=13
+https://www.levreskole.no/index.php?pageID=7
+https://www.levreskole.no/index.php?pageID=122
+https://www.levreskole.no/index.php?pageID=16
+https://www.levreskole.no/index.php?pageID=517
+https://www.levreskole.no/index.php?pageID=514
+https://www.levreskole.no/index.php?pageID=507
+https://www.levreskole.no/index.php?pageID=497
+https://www.levreskole.no/index.php?pageID=489 
+https://www.levreskole.no/index.php?pageID=478
+https://www.levreskole.no/index.php?pageID=473
+#Lommedalen skole
+https://www.lommedalenskole.no/index.php?pageID=13
+https://www.lommedalenskole.no/index.php?pageID=7
+https://www.lommedalenskole.no/index.php?pageID=15
+https://www.lommedalenskole.no/index.php?pageID=16
+#Løkeberg skole
+https://www.loekebergskole.no/index.php?pageID=15 
+#Mølladammen skole
+https://www.molladammen.no/index.php?pageID=56
+https://www.molladammen.no/index.php?pageID=58
+https://www.molladammen.no/index.php?pageID=90
+https://www.molladammen.no/index.php?pageID=70
+https://www.molladammen.no/index.php?pageID=89
+https://www.molladammen.no/index.php?pageID=86
+https://www.molladammen.no/index.php?pageID=73
+https://www.molladammen.no/index.php?pageID=74
+#Oksenøya skole 
+https://oksenøyaskole.no/index.php?pageID=62
+https://oksenøyaskole.no/index.php?pageID=63
+#Skui skole
+https://www.skui.skole.no/index.php?pageID=13
+https://www.skui.skole.no/index.php?pageID=7
+https://www.skui.skole.no/index.php?pageID=14
+https://www.skui.skole.no/index.php?pageID=207
+https://www.skui.skole.no/index.php?pageID=15
+https://www.skui.skole.no/index.php?pageID=16
+#Snarøya skole
+https://www.snaroyaskole.no/index.php?pageID=7
+https://www.snaroyaskole.no/index.php?pageID=52
+#Tanum skole
+https://www.tanumskole.no/index.php?pageID=13
+https://www.tanumskole.no/index.php?pageID=7
+#Vøyenenga skole
+https://www.voyenengaskole.no/index.php?pageID=13
+https://www.voyenengaskole.no/index.php?pageID=85
+https://www.voyenengaskole.no/index.php?pageID=16

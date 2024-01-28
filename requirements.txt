@@ -1,0 +1,4 @@
+concurrent.futures>=3.5.2
+dataclasses>=0.8
+requests>=2.26.0
+beautifulsoup4>=4.10.0
